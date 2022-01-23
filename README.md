@@ -10,6 +10,6 @@
 - ⚡ Fun fact: ...
  -->
  
- <img allign="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BamunugeDR99&show_icons=true&theme=tokyonight"/>
-  <img allign="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BamunugeDR99&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+ <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BamunugeDR99&show_icons=true&theme=tokyonight"/>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BamunugeDR99&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 
