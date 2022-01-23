@@ -1,4 +1,4 @@
-### Hello, I'm Dulan Bamunuge! 👋
+# Hello, I'm Dulan Bamunuge! 👋
 
 - 🔭 I’m a Software Enginnering Undergraduate at SLIIT
 - 🌱 I’m currently learning Angular
