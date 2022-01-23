@@ -9,5 +9,6 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BamunugeDR99&show_icons=true&theme=tokyonight)
+<!-- 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BamunugeDR99&show_icons=true&theme=tokyonight) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BamunugeDR99)](https://github.com/anuraghazra/github-readme-stats)
