@@ -7,7 +7,7 @@
  
  ## My Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BamunugeDR99&show_icons=true&theme=tokyonight"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BamunugeDR99&layout=compact"/><br/><br/><br/><br/><br/><br/><br/><br/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BamunugeDR99&layout=compact"/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 
 ## Languages & Tools
