@@ -7,11 +7,8 @@
  
  ## My Stats
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=BamunugeDR99&show_icons=true&theme=tokyonight"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BamunugeDR99&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BamunugeDR99&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/><br/><br/><br/><br/><br/><br/><br/><br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
 
 ## Languages & Tools
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
