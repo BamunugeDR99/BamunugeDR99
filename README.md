@@ -1,8 +1,8 @@
 # Hello, I'm Dulan Bamunuge! 👋
 
 - 🔭 I’m a Software Enginnering Undergraduate at SLIIT
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking for an internship to gain experience & expertise
+- 🌱 I’m currently interested in AI & ML
+- 👯 I’m looking to constantly challenge and improve myself.
 
  
  ## My Stats
